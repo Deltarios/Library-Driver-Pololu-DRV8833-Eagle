@@ -4,7 +4,7 @@
 
 > Contact: arturi.marking@gmail.com
 
-## Visualizador de temperatura con Processing
+## Library for Eagle Pololu DRV8833
 
 Eagle CAD Library for Pololu DRV8833 Engine Controller for PCB Design
 
@@ -17,7 +17,7 @@ Software:
 
 <table>
 <tr>
-<td><img src=https://github.com/Deltarios/Library-Driver-Pololu-DRV8833-Eagle/blob/master/RAW/0J3866.600x480.jpg></td>
+<td><img src=https://github.com/Deltarios/Library-Driver-Pololu-DRV8833-Eagle/blob/master/RAW/0J3865.600x480.jpg></td>
 <td><img src=https://github.com/Deltarios/Library-Driver-Pololu-DRV8833-Eagle/blob/master/RAW/0J3866.600x480.jpg></td>
 </tr>
 </table>
